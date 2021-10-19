@@ -33,6 +33,10 @@
         color: #f05945;
         text-align: center;
     }
+    .intro h2:hover{
+        color: #621ae7;
+        background-color: #f9fd0f67;
+    }
     .intro p {
         width: 100%;
         margin: 0px;
