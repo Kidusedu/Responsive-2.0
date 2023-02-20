@@ -13,6 +13,11 @@ p {
 
 /* nav bar *********************************************************/
 
+.nav-bar{
+    background-color: #f05945;
+    text-align: center;
+}
+
 .nav-bar h4 {
     padding-left: 40%;
 }
@@ -30,13 +35,14 @@ p {
     margin-left: 35%;
     margin-top: 30px;
     border-radius: 15px;
-    box-shadow: 5px 0px 50px #ffb037;
+    /* box-shadow: 5px 0px 50px #f5f5f5; */
 }
 
 .intro {
+    height: 100%;
     width: 100%;
-    padding-bottom: 10px;
-    background-color: #f7f3e9;
+
+    background-color: #10100f;
 }
 
 .intro h2 {
@@ -91,6 +97,8 @@ p {
     padding-top: 20px;
     font-family: 'Kiwi Maru', serif;
     color: white;
+    text-align: center;
+
 }
 
 .skills ul {
@@ -125,13 +133,17 @@ p {
 .projects {
     background-color: #a3d2ca;
     padding-bottom: 18px;
+    
 }
 
 .projects h3 {
     margin-left: 10px;
     font-family: 'Kiwi Maru', serif;
     color: white;
+    text-align: center;
+
 }
+
 
 .projects ul {
     margin-left: 20px;
